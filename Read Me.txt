@@ -1,0 +1,23 @@
+~~Bienvenue dans le fichier read me du projet Al-khair benidik.
+Pour la structure du Dossier envoyé:
+projet web dev
+|
+|--Read Me
+->lire en premier
+|
+|--Rapport Projet Dev WeB -Al-khair benidik-
+->contient le rapport sur le projet avec tout les détails suivant la template envoyée par notre encadrante
+|
+|--projet de page de donation/
+     |--img2/
+     -->contient toutes les images utilisées dans le projet
+     |
+     |--Website Demo Video
+     -->contient un screen recording de l'utilisation du site web
+     |
+     |--donation.css
+     -->le fichier css pour le style 
+     |
+     |--donation.html
+     -->le fichier html qui contient la structure et la squelette du projet
+     
